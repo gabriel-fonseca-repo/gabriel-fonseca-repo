@@ -10,7 +10,7 @@ As tecnologias com as quais me destaco, já trabalhei, ou trabalho, profissional
 
 * ♨️ Java & JavaEE
 * 📃 JasperStudio
-* 🖥️ JSP e Servlets
+* 🖥️ JSP, JSF e Servlets
 * 💾 PostgreSQL
 * 🦫 DBeaver
 * 🍃 Spring
