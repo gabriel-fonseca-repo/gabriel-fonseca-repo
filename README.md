@@ -8,24 +8,30 @@ Aspirante a desenvolvedor fullstack, trabalhando com tecnologias dos dois lados 
 
 As tecnologias com as quais me destaco, já trabalhei, ou trabalho, profissionalmente são
 
-* ♨️ Java & JavaEE
-* 📃 JasperStudio
-* 🖥️ JSP, JSF e Servlets
-* 💾 PostgreSQL
-* 🦫 DBeaver
-* 🍃 Spring
-* 🐧 Linux
+<div style="display: inline_block">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
 
 Tecnologias que trabalhei ocasionalmente em atividades a parte e tenho experiência moderada são
 
-* ⚛️ ReactJS e Javascript
-* 📡 ExpressJS
-* 🧶 NodeJS
-* 📱 Kotlin e Android Studio
-* 🤖 Godot e GDScript
+<div style="display: inline_block">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+</div>
 
 Tecnologias que tenho interesse em aprender são
 
-* #️⃣ C# & .NET Framework
-* 🐍 Python
-* 🦀 Rust
+<div style="display: inline_block">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+</div>
