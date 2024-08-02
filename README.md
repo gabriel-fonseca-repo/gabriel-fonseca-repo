@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielfonsecafeitosa/)
 [![](https://img.shields.io/badge/-Unifor%20carreiras-blue?style=for-the-badge)](https://unifor-csm.symplicity.com/profiles/gabriel.fonsecafeitosaaquinof)
-[![](https://img.shields.io/badge/-Beecrowd-yellow?style=for-the-badge)](https://www.beecrowd.com.br/judge/pt/profile/519582)
+[![](https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=%23CE3DF3)](https://unifor-csm.symplicity.com/profiles/gabriel.fonsecafeitosaaquinof)
 [![](https://img.shields.io/badge/-Email-red?style=for-the-badge)](mailto:gabrielfonsecafaf@gmail.com)
 
 Desenvolvedor fullstack, trabalhando com tecnologias dos dois lados da moeda.
