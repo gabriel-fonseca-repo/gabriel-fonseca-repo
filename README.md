@@ -1,9 +1,10 @@
 ## Olá! Me chamo Gabriel Fonseca, mas prefiro ser chamado de Fonseca.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielfonsecafeitosa/)
-[![](https://img.shields.io/badge/-Unifor%20carreiras-blue?style=for-the-badge)](https://unifor-csm.symplicity.com/profiles/gabriel.fonsecafeitosaaquinof)
+[![](https://img.shields.io/badge/unifor_carreiras-blue?style=for-the-badge&logo=unjs&logoColor=white)](https://unifor-csm.symplicity.com/profiles/gabriel.fonsecafeitosaaquinof)
 [![](https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=%23CE3DF3)](https://app.daily.dev/gabrielfonseca)
-[![](https://img.shields.io/badge/-Email-red?style=for-the-badge)](mailto:gabrielfonsecafaf@gmail.com)
+[![](https://img.shields.io/badge/meu_blog-D9D9D9?style=for-the-badge&logo=adobefonts&logoColor=000B1D)](https://gabriel-fonseca-repo.github.io/fonsecovizk-dev/)
+[![](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfonsecafaf@gmail.com)
 
 Desenvolvedor fullstack, trabalhando com tecnologias dos dois lados da moeda.
 
