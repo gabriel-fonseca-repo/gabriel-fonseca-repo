@@ -1,12 +1,12 @@
 ## Olá! Me chamo Gabriel Fonseca, mas prefiro ser chamado de Fonseca.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielfonsecafeitosa/)
-[![](https://img.shields.io/badge/unifor_carreiras-blue?style=for-the-badge&logo=unjs&logoColor=white)](https://unifor-csm.symplicity.com/profiles/gabriel.fonsecafeitosaaquinof)
+[![](https://img.shields.io/badge/meu_blog-D9D9D9?style=for-the-badge&logo=adobefonts&logoColor=000B1D)](https://fonsecovizk.dev/)
 [![](https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=%23CE3DF3)](https://app.daily.dev/gabrielfonseca)
-[![](https://img.shields.io/badge/meu_blog-D9D9D9?style=for-the-badge&logo=adobefonts&logoColor=000B1D)](https://gabriel-fonseca-repo.github.io/fonsecovizk-dev/)
+[![](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@fosecovizk)
 [![](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfonsecafaf@gmail.com)
 
-Desenvolvedor fullstack, trabalhando com tecnologias dos dois lados da moeda.
+Desenvolvedor Java Júnior com mais de 2 anos de experiência, especializado em Back-end com Java, Spring Boot e microsserviços além de conhecimento em Front-end com HTML, CSS, JavaScript e Node.js. Experiência profissional com JavaEE, JSF, JPA, Hibernate, Spring Web, Tomcat, PrimeFaces, PostgreSQL, JasperReports, JasperStudio, JasperSoft, Git e GitFlow. Possuo profunda experiência acadêmica em Ciência de Dados e Inteligência Artificial através de pesquisas acadêmicas realizadas com professores, desenvolvendo modelos de IA do zero e utilizando modelos de bibliotecas de ponta, com ferramentas como NumPy, Python, Scikit-Learn e Hugging Face. Aderindo à boas práticas de desenvolvimento, tal como Solid. Utilizando metodologias ágeis tal como Scrum.
 
 As tecnologias com as quais me destaco, já trabalhei, ou trabalho, profissionalmente são
 
