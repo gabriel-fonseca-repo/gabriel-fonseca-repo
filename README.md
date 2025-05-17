@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielfonsecafeitosa/)
 [![](https://img.shields.io/badge/meu_blog-D9D9D9?style=for-the-badge&logo=adobefonts&logoColor=000B1D)](https://fonsecovizk.dev/)
 [![](https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=%23CE3DF3)](https://app.daily.dev/gabrielfonseca)
-[![](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@fosecovizk)
 [![](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfonsecafaf@gmail.com)
 
 ### Sobre mim
