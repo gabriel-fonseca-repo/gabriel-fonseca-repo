@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriel Fonseca, mas prefiro ser chamado de Fonseca.
+## Hello there! Call me Gabriel.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielfonsecafeitosa/)
 [![](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfonsecafaf@gmail.com)
